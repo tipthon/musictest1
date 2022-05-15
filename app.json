@@ -1,7 +1,6 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "test1",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +10,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "website": "https://github.com/userblal/musictest1",
+    "repository": "https://github.com/userblal/musictest1",
+    "success_url": "https://github.com/userblal/musictest1",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
